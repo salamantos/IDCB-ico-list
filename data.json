@@ -1,0 +1,1170 @@
+[
+    {
+        "facebook": 25309110,
+        "img": "https://i2.feedspot.com/4648397.jpeg",
+        "name": "Google News - Bitcoin ",
+        "rate": 25523057,
+        "twitter": 213947,
+        "url": "news.google.com/news/section.."
+    },
+    {
+        "facebook": 1169405,
+        "img": "https://i2.feedspot.com/4648392.jpeg",
+        "name": "Reddit - Bitcoin",
+        "rate": 1697048,
+        "twitter": 527643,
+        "url": "reddit.com/r/Bitcoin"
+    },
+    {
+        "facebook": 1169405,
+        "img": "https://i3.feedspot.com/4648394.jpg",
+        "name": "Reddit - Bitcoin | The Internet of Money",
+        "rate": 1697048,
+        "twitter": 527643,
+        "url": "reddit.com/r/btc"
+    },
+    {
+        "facebook": 670303,
+        "img": "https://i2.feedspot.com/4648217.jpg?t=1521027894",
+        "name": "Cointelegraph ",
+        "rate": 1030537,
+        "twitter": 360234,
+        "url": "cointelegraph.com"
+    },
+    {
+        "facebook": 75592,
+        "img": "https://i3.feedspot.com/3488969.jpg?t=1528878297",
+        "name": "CoinDesk - Bitcoin News, Blockchain News, Prices, Charts & Analysis",
+        "rate": 808735,
+        "twitter": 733143,
+        "url": "coindesk.com"
+    },
+    {
+        "facebook": 202,
+        "img": "https://i3.feedspot.com/4833615.jpg?t=1516856703",
+        "name": "ICO CALENDAR - News",
+        "rate": 801809,
+        "twitter": 801607,
+        "url": "icocalendar.today/news"
+    },
+    {
+        "facebook": 171381,
+        "img": "https://i3.feedspot.com/4320405.jpg?t=1521117534",
+        "name": "Blockchain | News and Updates on Blockchain and Bitcoin",
+        "rate": 780703,
+        "twitter": 609322,
+        "url": "blog.blockchain.com"
+    },
+    {
+        "facebook": 142267,
+        "img": "https://i1.feedspot.com/4648314.jpeg",
+        "name": "The Coinbase Blog",
+        "rate": 693739,
+        "twitter": 551472,
+        "url": "blog.coinbase.com"
+    },
+    {
+        "facebook": 36193,
+        "img": "https://i3.feedspot.com/4648224.jpg",
+        "name": "Bitcoin.org Blog",
+        "rate": 620698,
+        "twitter": 584505,
+        "url": "bitcoin.org/en/blog"
+    },
+    {
+        "facebook": 72448,
+        "img": "https://i1.feedspot.com/4691675.jpg?t=1530516606",
+        "name": "Bitcoin Magazine",
+        "rate": 582156,
+        "twitter": 509708,
+        "url": "bitcoinmagazine.com"
+    },
+    {
+        "facebook": 26412,
+        "img": "https://i2.feedspot.com/4648850.jpg?t=1532943393",
+        "name": "Andreas M. Antonopoulos | Bitcoin Youtuber",
+        "rate": 467574,
+        "twitter": 441162,
+        "url": "youtube.com/user/aantonop/vi.."
+    },
+    {
+        "facebook": 114095,
+        "img": "https://i3.feedspot.com/4296075.jpg?t=1513331707",
+        "name": "Ethereum Blog",
+        "rate": 372763,
+        "twitter": 258668,
+        "url": "blog.ethereum.org"
+    },
+    {
+        "facebook": 85817,
+        "img": "https://i1.feedspot.com/4446705.jpeg?t=1517460930",
+        "name": "Bitcoin News",
+        "rate": 329315,
+        "twitter": 243498,
+        "url": "news.bitcoin.com"
+    },
+    {
+        "facebook": 249313,
+        "img": "https://i2.feedspot.com/4648795.jpeg",
+        "name": "Bitcoin XYZ",
+        "rate": 282710,
+        "twitter": 33397,
+        "url": "bitcoin.xyz"
+    },
+    {
+        "facebook": 195886,
+        "img": "https://i1.feedspot.com/4648338.jpg",
+        "name": "Gemini Blog",
+        "rate": 230619,
+        "twitter": 34733,
+        "url": "gemini.com/blog"
+    },
+    {
+        "facebook": 4141,
+        "img": "https://i3.feedspot.com/4839697.jpg?t=1517643311",
+        "name": "InvestorIdeas.com",
+        "rate": 217271,
+        "twitter": 213130,
+        "url": "cryptocurrencyinvestorideas..."
+    },
+    {
+        "facebook": 170682,
+        "img": "https://i2.feedspot.com/4648882.jpg",
+        "name": "Paxful Blog",
+        "rate": 212399,
+        "twitter": 41717,
+        "url": "blog.paxful.com/en"
+    },
+    {
+        "facebook": 15153,
+        "img": "https://i1.feedspot.com/1339542.jpg?t=1514377708",
+        "name": "Bitcoin Foundation",
+        "rate": 211395,
+        "twitter": 196242,
+        "url": "bitcoinfoundation.org"
+    },
+    {
+        "facebook": 8882,
+        "img": "https://i3.feedspot.com/4648360.jpg",
+        "name": "Bitfinex blog",
+        "rate": 211104,
+        "twitter": 202222,
+        "url": "blog.bitfinex.com"
+    },
+    {
+        "facebook": 13814,
+        "img": "https://i3.feedspot.com/4648742.jpg",
+        "name": "The BitPay Blog",
+        "rate": 192764,
+        "twitter": 178950,
+        "url": "blog.bitpay.com"
+    },
+    {
+        "facebook": 10701,
+        "img": "https://i3.feedspot.com/4320417.jpg",
+        "name": "Kraken Bitcoin Exchange",
+        "rate": 171921,
+        "twitter": 161220,
+        "url": "blog.kraken.com"
+    },
+    {
+        "facebook": 83380,
+        "img": "https://i1.feedspot.com/4648437.jpeg?t=1513753452",
+        "name": "Genesis Mining Bitcoin Blog",
+        "rate": 130506,
+        "twitter": 47126,
+        "url": "blog.genesis-mining.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i1.feedspot.com/4141809.jpeg",
+        "name": "CryptoCoins News",
+        "rate": 112733,
+        "twitter": 112733,
+        "url": "cryptocoinsnews.com"
+    },
+    {
+        "facebook": 47398,
+        "img": "https://i2.feedspot.com/4648330.jpg",
+        "name": "ShapeShift.io Blog",
+        "rate": 106285,
+        "twitter": 58887,
+        "url": "info.shapeshift.io/blog"
+    },
+    {
+        "facebook": 37552,
+        "img": "https://i2.feedspot.com/4648730.jpeg?t=1514376725",
+        "name": "Bitmain Blog",
+        "rate": 104493,
+        "twitter": 66941,
+        "url": "blog.bitmain.com/en"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i2.feedspot.com/4648675.jpg",
+        "name": "A blog by Vinny Lingham ",
+        "rate": 96133,
+        "twitter": 96133,
+        "url": "vinnylingham.com"
+    },
+    {
+        "facebook": 1469,
+        "img": "https://i2.feedspot.com/4648261.jpg",
+        "name": "Bitcoin Garden",
+        "rate": 89414,
+        "twitter": 87945,
+        "url": "bitcoingarden.org"
+    },
+    {
+        "facebook": 70191,
+        "img": "https://i3.feedspot.com/4648746.jpg",
+        "name": "Bitcoin South Africa Blog",
+        "rate": 75446,
+        "twitter": 5255,
+        "url": "bitcoinzar.co.za/blog"
+    },
+    {
+        "facebook": 774,
+        "img": "https://i2.feedspot.com/4648769.jpg",
+        "name": "The Bitcoin News ",
+        "rate": 74853,
+        "twitter": 74079,
+        "url": "thebitcoinnews.com"
+    },
+    {
+        "facebook": 41992,
+        "img": "https://i3.feedspot.com/4648318.jpeg?t=1523623826",
+        "name": "CEX.IO Official Blog",
+        "rate": 68846,
+        "twitter": 26854,
+        "url": "blog.cex.io"
+    },
+    {
+        "facebook": 66309,
+        "img": "https://i2.feedspot.com/4648817.jpeg",
+        "name": "Stack Exchange - Bitcoin",
+        "rate": 68092,
+        "twitter": 1783,
+        "url": "bitcoin.stackexchange.com"
+    },
+    {
+        "facebook": 19476,
+        "img": "https://i3.feedspot.com/4249817.jpg",
+        "name": "NEWSBTC - Bitcoin News, Price, Analysis",
+        "rate": 51298,
+        "twitter": 31822,
+        "url": "newsbtc.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i2.feedspot.com/4648872.jpeg",
+        "name": "Bitcoin Core",
+        "rate": 50618,
+        "twitter": 50618,
+        "url": "bitcoincore.org/en/blog"
+    },
+    {
+        "facebook": 18489,
+        "img": "https://i2.feedspot.com/4588454.jpeg",
+        "name": "Bitcoinist - Bitcoin News and Reviews",
+        "rate": 47888,
+        "twitter": 29399,
+        "url": "bitcoinist.com"
+    },
+    {
+        "facebook": 302,
+        "img": "https://i2.feedspot.com/4648838.jpg?t=1513141546",
+        "name": "MadBitcoins ",
+        "rate": 44857,
+        "twitter": 44555,
+        "url": "youtube.com/user/madbitcoins.."
+    },
+    {
+        "facebook": 19047,
+        "img": "https://i3.feedspot.com/4648803.jpg?t=1526908484",
+        "name": "BTCMANAGER | Bitcoin, Blockchain & Cryptocurrency News",
+        "rate": 44256,
+        "twitter": 25209,
+        "url": "btcmanager.com"
+    },
+    {
+        "facebook": 43979,
+        "img": "https://i1.feedspot.com/4649142.jpg",
+        "name": "Belfrics Blog",
+        "rate": 44161,
+        "twitter": 182,
+        "url": "belfrics.com/blog"
+    },
+    {
+        "facebook": 20439,
+        "img": "https://i1.feedspot.com/4648723.jpeg",
+        "name": "Coinsecure Blog",
+        "rate": 41487,
+        "twitter": 21048,
+        "url": "blog.coinsecure.com"
+    },
+    {
+        "facebook": 22652,
+        "img": "https://i1.feedspot.com/4648741.jpg",
+        "name": "The BTC Blog",
+        "rate": 36202,
+        "twitter": 13550,
+        "url": "blog.btc.com"
+    },
+    {
+        "facebook": 22330,
+        "img": "https://i2.feedspot.com/4648412.jpeg",
+        "name": "Zebpay Blog",
+        "rate": 35576,
+        "twitter": 13246,
+        "url": "blog.zebpay.com"
+    },
+    {
+        "facebook": 17063,
+        "img": "https://i1.feedspot.com/4648717.jpg?t=1523683230",
+        "name": "Wirex Blog | The best bitcoin articles every day.",
+        "rate": 29082,
+        "twitter": 12019,
+        "url": "wirexapp.com/blog"
+    },
+    {
+        "facebook": 5732,
+        "img": "https://i2.feedspot.com/4648377.jpg",
+        "name": "Brave New Coin News",
+        "rate": 28165,
+        "twitter": 22433,
+        "url": "bravenewcoin.com/news"
+    },
+    {
+        "facebook": 4206,
+        "img": "https://i1.feedspot.com/4648373.jpg",
+        "name": "Bitcoin PR Buzz",
+        "rate": 25645,
+        "twitter": 21439,
+        "url": "bitcoinprbuzz.com"
+    },
+    {
+        "facebook": 11455,
+        "img": "https://i2.feedspot.com/4648371.jpeg?t=1517468471",
+        "name": "99 Bitcoins | Buy Bitcoin, Bitcoin Guides & Reviews for Bitcoin Newbies",
+        "rate": 25169,
+        "twitter": 13714,
+        "url": "99bitcoins.com"
+    },
+    {
+        "facebook": 14477,
+        "img": "https://i3.feedspot.com/4648249.jpg",
+        "name": "SpectroCoin blog – Bitcoin wallet and exchange",
+        "rate": 23742,
+        "twitter": 9265,
+        "url": "blog.spectrocoin.com/en"
+    },
+    {
+        "facebook": 5249,
+        "img": "https://i1.feedspot.com/4648351.jpg?t=1517401085",
+        "name": "Official Changelly Blog | Exchange cryptocurrency online with the best market rate.",
+        "rate": 23067,
+        "twitter": 17818,
+        "url": "changelly.com/blog"
+    },
+    {
+        "facebook": 14285,
+        "img": "https://i3.feedspot.com/4648336.jpg?t=1523683739",
+        "name": "The Cryptopay blog",
+        "rate": 21872,
+        "twitter": 7587,
+        "url": "blog.cryptopay.me"
+    },
+    {
+        "facebook": 80,
+        "img": "https://i2.feedspot.com/4648230.jpg",
+        "name": "Bitcoin Dood - The Bitcoin Blog",
+        "rate": 21842,
+        "twitter": 21762,
+        "url": "bitcoindood.com/bitcoin-blog"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i3.feedspot.com/4648282.jpeg",
+        "name": "BlueMatt's Blog",
+        "rate": 20797,
+        "twitter": 20797,
+        "url": "bluematt.bitcoin.ninja"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i3.feedspot.com/4149140.jpg",
+        "name": "Startup Management - William Mougayar",
+        "rate": 18718,
+        "twitter": 18718,
+        "url": "startupmanagement.org/blog"
+    },
+    {
+        "facebook": 2730,
+        "img": "https://i2.feedspot.com/4648704.jpg",
+        "name": "Purse Blog",
+        "rate": 17500,
+        "twitter": 14770,
+        "url": "blog.purse.io"
+    },
+    {
+        "facebook": 3523,
+        "img": "https://i2.feedspot.com/4648751.jpg",
+        "name": "Inside Bitcoins - News, Price, EventsBlockchain Agenda with Inside",
+        "rate": 17489,
+        "twitter": 13966,
+        "url": "insidebitcoins.com"
+    },
+    {
+        "facebook": 14565,
+        "img": "https://i3.feedspot.com/4824490.jpg?t=1517310810",
+        "name": "DC Forecasts – Leading Digital Currencies",
+        "rate": 14588,
+        "twitter": 23,
+        "url": "dcforecasts.com"
+    },
+    {
+        "facebook": 6561,
+        "img": "https://i1.feedspot.com/4648438.jpg",
+        "name": "CoinJar Blog",
+        "rate": 13694,
+        "twitter": 7133,
+        "url": "blog.coinjar.com"
+    },
+    {
+        "facebook": 7176,
+        "img": "https://i1.feedspot.com/4648348.jpg?t=1517644075",
+        "name": "BitPanda News",
+        "rate": 13356,
+        "twitter": 6180,
+        "url": "blog.bitpanda.com"
+    },
+    {
+        "facebook": 7394,
+        "img": "https://i3.feedspot.com/4648680.jpeg",
+        "name": "Bitwala News",
+        "rate": 12877,
+        "twitter": 5483,
+        "url": "bitwala.io/news"
+    },
+    {
+        "facebook": 141,
+        "img": "https://i3.feedspot.com/4507380.jpg",
+        "name": "Bitcoin Warrior",
+        "rate": 11127,
+        "twitter": 10986,
+        "url": "bitcoinwarrior.net"
+    },
+    {
+        "facebook": 4808,
+        "img": "https://i2.feedspot.com/4648705.jpg?t=1514378234",
+        "name": "CoinSpace Bitcoin Wallet Blog",
+        "rate": 10801,
+        "twitter": 5993,
+        "url": "coin.space/blog.html"
+    },
+    {
+        "facebook": 893,
+        "img": "https://i3.feedspot.com/4649169.jpg",
+        "name": "Blockchain Australia",
+        "rate": 10606,
+        "twitter": 9713,
+        "url": "bitcoin.asn.au"
+    },
+    {
+        "facebook": 8050,
+        "img": "https://i3.feedspot.com/4648876.jpeg",
+        "name": "Bitcoin Chaser",
+        "rate": 10023,
+        "twitter": 1973,
+        "url": "bitcoinchaser.com"
+    },
+    {
+        "facebook": 6293,
+        "img": "https://i1.feedspot.com/4776781.jpg?t=1510894155",
+        "name": "ICO Examiner – ICO News",
+        "rate": 9944,
+        "twitter": 3651,
+        "url": "icoexaminer.com/category/ico.."
+    },
+    {
+        "facebook": 3199,
+        "img": "https://i2.feedspot.com/4648346.jpg?t=1523683538",
+        "name": "Vaultoro Blog",
+        "rate": 9771,
+        "twitter": 6572,
+        "url": "blog.vaultoro.com"
+    },
+    {
+        "facebook": 9150,
+        "img": "https://i3.feedspot.com/4648863.jpg",
+        "name": "TREZOR Blog",
+        "rate": 9314,
+        "twitter": 164,
+        "url": "blog.trezor.io"
+    },
+    {
+        "facebook": 6962,
+        "img": "https://i1.feedspot.com/4648252.jpg",
+        "name": "Bitcoin IRA",
+        "rate": 8658,
+        "twitter": 1696,
+        "url": "bitcoinira.com/bitcoinira-blog"
+    },
+    {
+        "facebook": 147,
+        "img": "https://i3.feedspot.com/4648784.jpeg?t=1517400255",
+        "name": "Abitco News",
+        "rate": 8114,
+        "twitter": 7967,
+        "url": "abitco.in"
+    },
+    {
+        "facebook": 799,
+        "img": "https://i1.feedspot.com/4732975.jpg?t=1526908581",
+        "name": "Coin Spectator Blog | Cryptocurrency news, insight and everything in between.",
+        "rate": 7535,
+        "twitter": 6736,
+        "url": "blog.coinspectator.com"
+    },
+    {
+        "facebook": 2822,
+        "img": "https://i3.feedspot.com/4648445.jpeg",
+        "name": "Abra Blog",
+        "rate": 6809,
+        "twitter": 3987,
+        "url": "goabra.com/blog"
+    },
+    {
+        "facebook": 8,
+        "img": "https://i3.feedspot.com/4648897.jpeg",
+        "name": "XBT.MONEY",
+        "rate": 6783,
+        "twitter": 6775,
+        "url": "xbt.money"
+    },
+    {
+        "facebook": 426,
+        "img": "https://i3.feedspot.com/4801227.jpg?t=1523857276",
+        "name": "Blockonomi - Your Guide to the Blockchain Economy",
+        "rate": 6438,
+        "twitter": 6012,
+        "url": "blockonomi.com"
+    },
+    {
+        "facebook": 889,
+        "img": "https://i1.feedspot.com/4653407.jpg?t=1517488831",
+        "name": "CryptoNinjas | Bitcoin & Cryptocurrency Market Source",
+        "rate": 5634,
+        "twitter": 4745,
+        "url": "cryptoninjas.net"
+    },
+    {
+        "facebook": 1992,
+        "img": "https://i3.feedspot.com/4648772.jpeg?t=1517400154",
+        "name": "ForkLog | Bitcoin Magazine",
+        "rate": 5417,
+        "twitter": 3425,
+        "url": "forklog.net"
+    },
+    {
+        "facebook": 5,
+        "img": "https://i1.feedspot.com/4892003.jpg",
+        "name": "Info On Bitcoin",
+        "rate": 4783,
+        "twitter": 4778,
+        "url": "infoonbitcoin.com"
+    },
+    {
+        "facebook": 2150,
+        "img": "https://i2.feedspot.com/4648764.jpg",
+        "name": "A Bit of News",
+        "rate": 4220,
+        "twitter": 2070,
+        "url": "abitofnews.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i3.feedspot.com/4648715.jpeg",
+        "name": "Bitcoin Trading Signals",
+        "rate": 3791,
+        "twitter": 3791,
+        "url": "btctrading.wordpress.com"
+    },
+    {
+        "facebook": 3330,
+        "img": "https://i3.feedspot.com/4746335.jpg?t=1517403167",
+        "name": "ZyCrypto | Bitcoin/Altcoins General Guides And Cryptocurrency Daily News",
+        "rate": 3599,
+        "twitter": 269,
+        "url": "zycrypto.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i1.feedspot.com/4648238.jpeg?t=1517644271",
+        "name": "Coin ATM Radar Blog",
+        "rate": 3348,
+        "twitter": 3348,
+        "url": "coinatmradar.com/blog"
+    },
+    {
+        "facebook": 2472,
+        "img": "https://i3.feedspot.com/4850655.jpg?t=1519210587",
+        "name": "Bitcoin Hub - Bitcoin & Cryptocurrency News South Africa",
+        "rate": 3325,
+        "twitter": 853,
+        "url": "bitcoinhub.co.za"
+    },
+    {
+        "facebook": 1508,
+        "img": "https://i2.feedspot.com/4648800.jpeg",
+        "name": "Live Bitcoin News - Charts, Guides & Analysis",
+        "rate": 3319,
+        "twitter": 1811,
+        "url": "livebitcoinnews.com"
+    },
+    {
+        "facebook": 1171,
+        "img": "https://i3.feedspot.com/4649166.jpg",
+        "name": "CoinIdol News",
+        "rate": 3234,
+        "twitter": 2063,
+        "url": "coinidol.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i2.feedspot.com/4150123.jpg",
+        "name": "Crypto Mining Blog",
+        "rate": 2965,
+        "twitter": 2965,
+        "url": "cryptomining-blog.com"
+    },
+    {
+        "facebook": 701,
+        "img": "https://i1.feedspot.com/4648901.jpeg",
+        "name": "BTC World News",
+        "rate": 2802,
+        "twitter": 2101,
+        "url": "btcworldnews.com"
+    },
+    {
+        "facebook": 1967,
+        "img": "https://i3.feedspot.com/4769281.jpg?t=1517462258",
+        "name": "CryptoPotato - The world of Bitcoins and Altcoins Crypto currencies",
+        "rate": 2768,
+        "twitter": 801,
+        "url": "cryptopotato.com"
+    },
+    {
+        "facebook": 2180,
+        "img": "https://i3.feedspot.com/4765638.jpg?t=1509346628",
+        "name": "Bitcoin Base | The World of Cryptic Money",
+        "rate": 2488,
+        "twitter": 308,
+        "url": "bitcoinbazis.hu"
+    },
+    {
+        "facebook": 1494,
+        "img": "https://i3.feedspot.com/4790099.jpg?t=1513338214",
+        "name": "Ethereum World News | Bitcoin & Ethereum Blockchain News",
+        "rate": 2392,
+        "twitter": 898,
+        "url": "ethereumworldnews.com"
+    },
+    {
+        "facebook": 13,
+        "img": "https://i3.feedspot.com/4648712.jpg",
+        "name": "Online Bitcoin Casino Blog",
+        "rate": 2387,
+        "twitter": 2374,
+        "url": "goldbitcoincasino.com/blog"
+    },
+    {
+        "facebook": 37,
+        "img": "https://i1.feedspot.com/4648670.jpeg?t=1509354932",
+        "name": "BITRSS Bitcoin Worldwide News",
+        "rate": 2336,
+        "twitter": 2299,
+        "url": "bitrss.com"
+    },
+    {
+        "facebook": 53,
+        "img": "https://i3.feedspot.com/4714165.jpg?t=1508907101",
+        "name": "Use The Bitcoin",
+        "rate": 2307,
+        "twitter": 2254,
+        "url": "usethebitcoin.com"
+    },
+    {
+        "facebook": 2226,
+        "img": "https://i3.feedspot.com/4751272.jpg?t=1507179548",
+        "name": "Cryptomartez",
+        "rate": 2286,
+        "twitter": 60,
+        "url": "cryptomartez.com"
+    },
+    {
+        "facebook": 1395,
+        "img": "https://i1.feedspot.com/4744739.jpg?t=1517405243",
+        "name": "Zempafy – Cryptocurrency News | ICO Reviews | How To Guides",
+        "rate": 2028,
+        "twitter": 633,
+        "url": "zempafy.com"
+    },
+    {
+        "facebook": 254,
+        "img": "https://i1.feedspot.com/4892004.jpeg?t=1524574716",
+        "name": "Bit Starz",
+        "rate": 1781,
+        "twitter": 1527,
+        "url": "bitstarz.com/blog"
+    },
+    {
+        "facebook": 382,
+        "img": "https://i1.feedspot.com/4648738.jpeg",
+        "name": "Bitcoin Brains Blog ",
+        "rate": 1716,
+        "twitter": 1334,
+        "url": "blog.bitcoinbrains.com"
+    },
+    {
+        "facebook": 1646,
+        "img": "https://i2.feedspot.com/4649148.jpeg",
+        "name": "Bitcoins Pakistan",
+        "rate": 1678,
+        "twitter": 32,
+        "url": "bitcoinspakistan.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i3.feedspot.com/4801006.jpg?t=1517403510",
+        "name": "Bitrazzi - Bitcoin, Cryptocurrency And Blockchain News",
+        "rate": 1665,
+        "twitter": 1665,
+        "url": "bitrazzi.com"
+    },
+    {
+        "facebook": 1578,
+        "img": "https://i3.feedspot.com/4701956.jpg?t=1504776704",
+        "name": "FlitPay",
+        "rate": 1664,
+        "twitter": 86,
+        "url": "blog.flitpay.in"
+    },
+    {
+        "facebook": 767,
+        "img": "https://i1.feedspot.com/4648409.jpg",
+        "name": "Bitcoin Australia: The Fastest and Most Trusted Exchange",
+        "rate": 1642,
+        "twitter": 875,
+        "url": "bitcoin.com.au/page/blog"
+    },
+    {
+        "facebook": 1113,
+        "img": "https://i3.feedspot.com/4648378.jpg?t=1513753949",
+        "name": "CoinStaker | Cloud Mining Services Monitor",
+        "rate": 1596,
+        "twitter": 483,
+        "url": "coinstaker.com"
+    },
+    {
+        "facebook": 1485,
+        "img": "https://i2.feedspot.com/4833625.jpg",
+        "name": "BTCINDIANEWS",
+        "rate": 1498,
+        "twitter": 13,
+        "url": "btcindia.news/category/bitcoin"
+    },
+    {
+        "facebook": 853,
+        "img": "https://i2.feedspot.com/4648755.jpg",
+        "name": "EasyBit Bitcoin ATM Blog",
+        "rate": 1299,
+        "twitter": 446,
+        "url": "easybitatm.com/blog"
+    },
+    {
+        "facebook": 564,
+        "img": "https://i2.feedspot.com/4792139.jpg?t=1512210972",
+        "name": "CoinBlip - Cryptocurrency Market Capitalization, Trending Coins",
+        "rate": 1288,
+        "twitter": 724,
+        "url": "coinblip.com/blog"
+    },
+    {
+        "facebook": 540,
+        "img": "https://i3.feedspot.com/4648781.jpg?t=1517405146",
+        "name": "Helena Bitcoin Mining",
+        "rate": 1187,
+        "twitter": 647,
+        "url": "helenabitcoinmining.com"
+    },
+    {
+        "facebook": 498,
+        "img": "https://i2.feedspot.com/4648296.jpg",
+        "name": "CoinGate Blog",
+        "rate": 1169,
+        "twitter": 671,
+        "url": "blog.coingate.com"
+    },
+    {
+        "facebook": 445,
+        "img": "https://i2.feedspot.com/4648421.jpg",
+        "name": "Cashila Blog",
+        "rate": 1122,
+        "twitter": 677,
+        "url": "blog.cashila.com"
+    },
+    {
+        "facebook": 59,
+        "img": "https://i1.feedspot.com/4833609.jpg?t=1517403913",
+        "name": " icoSource | ICO's, News and Upcoming Events",
+        "rate": 1118,
+        "twitter": 1059,
+        "url": "icosource.io/blog"
+    },
+    {
+        "facebook": 1065,
+        "img": "https://i1.feedspot.com/4697890.jpg?t=1504519836",
+        "name": "HelpMyWallet",
+        "rate": 1065,
+        "twitter": 0,
+        "url": "helpmywallet.com"
+    },
+    {
+        "facebook": 265,
+        "img": "https://i3.feedspot.com/4900832.jpg?t=1526026196",
+        "name": "Merkle News",
+        "rate": 1037,
+        "twitter": 772,
+        "url": "merkle.press"
+    },
+    {
+        "facebook": 207,
+        "img": "https://i3.feedspot.com/4928050.jpg?t=1533301284",
+        "name": "XCH4NGE | Cryptocurrency and Bitcoin Blog",
+        "rate": 869,
+        "twitter": 662,
+        "url": "xch4nge.com"
+    },
+    {
+        "facebook": 387,
+        "img": "https://i1.feedspot.com/4746125.jpg?t=1508223527",
+        "name": "mycryptopedia",
+        "rate": 868,
+        "twitter": 481,
+        "url": "mycryptopedia.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i2.feedspot.com/4744749.jpg?t=1506145851",
+        "name": " Wallet Genius - Fortune Favors the Smart",
+        "rate": 841,
+        "twitter": 841,
+        "url": "thewalletgenius.com"
+    },
+    {
+        "facebook": 226,
+        "img": "https://i1.feedspot.com/4648729.jpg",
+        "name": "Bitcoin Millionaire",
+        "rate": 829,
+        "twitter": 603,
+        "url": "bitcoin-millionaire.com/blog"
+    },
+    {
+        "facebook": 470,
+        "img": "https://i3.feedspot.com/4648265.jpg",
+        "name": "Bitcoin Of America",
+        "rate": 791,
+        "twitter": 321,
+        "url": "bitcoinofamerica.org/blog"
+    },
+    {
+        "facebook": 21,
+        "img": "https://i3.feedspot.com/4648430.jpg",
+        "name": "BitcoinShirtz.com Blog",
+        "rate": 777,
+        "twitter": 756,
+        "url": "bitcoinshirtz.com/blog"
+    },
+    {
+        "facebook": 179,
+        "img": "https://i3.feedspot.com/4648879.jpeg",
+        "name": "Bitedge Blog",
+        "rate": 771,
+        "twitter": 592,
+        "url": "bitedge.com/blog"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i3.feedspot.com/4822061.jpg?t=1516104574",
+        "name": "Coin Frog",
+        "rate": 709,
+        "twitter": 709,
+        "url": "coinfrog.io"
+    },
+    {
+        "facebook": 476,
+        "img": "https://i2.feedspot.com/4648325.jpg?t=1514379960",
+        "name": "Bitsquare Blog",
+        "rate": 681,
+        "twitter": 205,
+        "url": "bitsquare.io/blog"
+    },
+    {
+        "facebook": 277,
+        "img": "https://i2.feedspot.com/4648308.jpg",
+        "name": "The Best Bitcoin Exchanges",
+        "rate": 617,
+        "twitter": 340,
+        "url": "bestbitcoinexchange.io"
+    },
+    {
+        "facebook": 74,
+        "img": "https://i1.feedspot.com/4648247.jpg",
+        "name": "CoinFabrik Blog",
+        "rate": 584,
+        "twitter": 510,
+        "url": "blog.coinfabrik.com"
+    },
+    {
+        "facebook": 10,
+        "img": "https://i2.feedspot.com/4648365.jpg",
+        "name": "Bitcoin Futures Blog - Top BTC Futures Exchanges ",
+        "rate": 578,
+        "twitter": 568,
+        "url": "bitcoinfuturesguide.com"
+    },
+    {
+        "facebook": 113,
+        "img": "https://i1.feedspot.com/4649111.jpg",
+        "name": "101 Reasons to Use Bitcoin",
+        "rate": 550,
+        "twitter": 437,
+        "url": "reasonstobitcoin.com"
+    },
+    {
+        "facebook": 491,
+        "img": "https://i3.feedspot.com/4648750.jpg",
+        "name": "BitKonga",
+        "rate": 515,
+        "twitter": 24,
+        "url": "bitkonga.com/bitcoin-blog"
+    },
+    {
+        "facebook": 37,
+        "img": "https://i2.feedspot.com/4763815.jpg?t=1513754056",
+        "name": "Best GPU for Mining",
+        "rate": 445,
+        "twitter": 408,
+        "url": "bestgpuformining.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i1.feedspot.com/4820906.jpg",
+        "name": "BITCOIN SITES | All Cryptocurrencies in One Place",
+        "rate": 441,
+        "twitter": 441,
+        "url": "bit-sites.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i2.feedspot.com/4042687.jpeg",
+        "name": "Mostly Bitcoin",
+        "rate": 410,
+        "twitter": 410,
+        "url": "mostlybitcoin.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i2.feedspot.com/4648416.jpg",
+        "name": "UK Bitcoin Blog",
+        "rate": 384,
+        "twitter": 384,
+        "url": "ukbitcoinblog.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i2.feedspot.com/4744747.jpg?t=1506145686",
+        "name": "We are the ledger - Medium",
+        "rate": 358,
+        "twitter": 358,
+        "url": "medium.com/wearetheledger"
+    },
+    {
+        "facebook": 64,
+        "img": "https://i1.feedspot.com/4765631.jpg?t=1509346187",
+        "name": "Crypto Reader",
+        "rate": 271,
+        "twitter": 207,
+        "url": "cryptoreader.com"
+    },
+    {
+        "facebook": 54,
+        "img": "https://i3.feedspot.com/4648887.jpeg?t=1517405737",
+        "name": "Devcoin | Cryptocurrency News | Bitcoin | Litecoin | Dogecoin",
+        "rate": 253,
+        "twitter": 199,
+        "url": "devcoins.org"
+    },
+    {
+        "facebook": 224,
+        "img": "https://i2.feedspot.com/4833629.jpg",
+        "name": "Cryptocy News",
+        "rate": 224,
+        "twitter": 0,
+        "url": "cryptocynews.com"
+    },
+    {
+        "facebook": 4,
+        "img": "https://i1.feedspot.com/4833643.jpg",
+        "name": "CryptoCoins Zone",
+        "rate": 206,
+        "twitter": 202,
+        "url": "cryptocoinszone.co.uk"
+    },
+    {
+        "facebook": 202,
+        "img": "https://i3.feedspot.com/4744725.jpg?t=1506144700",
+        "name": "The CryptoStache",
+        "rate": 202,
+        "twitter": 0,
+        "url": "cryptostache.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i1.feedspot.com/4885681.jpg?t=1524125004",
+        "name": "Bitcoin MXN",
+        "rate": 142,
+        "twitter": 142,
+        "url": "bitcoinmxn.com"
+    },
+    {
+        "facebook": 1,
+        "img": "https://i3.feedspot.com/4928901.jpg?t=1533715887",
+        "name": "Mineable | Bitcoin Mining, Ethereum Mining & Cryptocurrency News",
+        "rate": 139,
+        "twitter": 138,
+        "url": "mineable.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i1.feedspot.com/4656494.jpeg",
+        "name": "Bitcoin Lectures",
+        "rate": 79,
+        "twitter": 79,
+        "url": "youtube.com/channel/UC5nV.."
+    },
+    {
+        "facebook": 0,
+        "img": "https://i1.feedspot.com/4922143.jpg?t=1531219251",
+        "name": "ICOAxiom - ICO Listings and Data Analytics",
+        "rate": 63,
+        "twitter": 63,
+        "url": "icoaxiom.com/blog"
+    },
+    {
+        "facebook": 9,
+        "img": "https://i2.feedspot.com/4820900.jpg",
+        "name": "CryptoLogicBlog.co | The Top Free Crypto Faucets List",
+        "rate": 60,
+        "twitter": 51,
+        "url": "cryptologicblog.co"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i1.feedspot.com/4833614.jpg",
+        "name": "Dave Trades - The Dave Blog",
+        "rate": 36,
+        "twitter": 36,
+        "url": "dave-trades.com/the-dave-blog"
+    },
+    {
+        "facebook": 16,
+        "img": "https://i2.feedspot.com/4833607.jpg?t=1516855962",
+        "name": "AMBCrypto",
+        "rate": 23,
+        "twitter": 7,
+        "url": "ambcrypto.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i3.feedspot.com/4648432.jpeg",
+        "name": "BitCoinBlog24 Blog about cryptocurrency",
+        "rate": 20,
+        "twitter": 20,
+        "url": "bitcoinblog24.pl/category/bi.."
+    },
+    {
+        "facebook": 0,
+        "img": "https://i3.feedspot.com/4833654.jpg",
+        "name": "Bitcoin FAQ – Kurs, Chart und Kaufen",
+        "rate": 17,
+        "twitter": 17,
+        "url": "bitcoin-faq.net"
+    },
+    {
+        "facebook": 9,
+        "img": "https://i3.feedspot.com/4833653.jpg",
+        "name": "Cryptohappening",
+        "rate": 12,
+        "twitter": 3,
+        "url": "cryptohappening.com"
+    },
+    {
+        "facebook": 1,
+        "img": "https://i2.feedspot.com/4744735.jpg?t=1517404192",
+        "name": "Coin Press – The latest crypto news and information on crypto currencies",
+        "rate": 5,
+        "twitter": 4,
+        "url": "coinpress.io"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i3.feedspot.com/4868780.jpg?t=1522051862",
+        "name": "Coinzdaily",
+        "rate": 1,
+        "twitter": 1,
+        "url": "coinzdaily.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i2.feedspot.com/4699755.jpg",
+        "name": "Coinscage",
+        "rate": 0,
+        "twitter": 0,
+        "url": "coinscage.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i2.feedspot.com/4779988.jpg",
+        "name": "Core Media - Crypto News",
+        "rate": 0,
+        "twitter": 0,
+        "url": "cryptocoremedia.com/old"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i1.feedspot.com/4765004.jpg?t=1509178153",
+        "name": "Cryptoconverts",
+        "rate": 0,
+        "twitter": 0,
+        "url": "cryptoconverts.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i2.feedspot.com/4820912.jpg?t=1515495873",
+        "name": "DeCryptofied",
+        "rate": 0,
+        "twitter": 0,
+        "url": "decryptofied.com"
+    },
+    {
+        "facebook": 0,
+        "img": "https://i3.feedspot.com/4648837.jpg",
+        "name": "Bitcoin Wizards | Youtube",
+        "rate": 0,
+        "twitter": 0,
+        "url": "youtube.com/channel/UCDET.."
+    }
+]
